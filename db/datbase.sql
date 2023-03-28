@@ -17,3 +17,4 @@ INSERT INTO employe VALUES
 (2,'Henry',200),
 (3,'Sam',2500),
 (4,'Max',1500);
+
